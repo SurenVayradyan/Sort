@@ -30,7 +30,7 @@ def f_start():
                     
 
 
-root = Tk()
+root = Tk() # окно 
 root.title('PhotoSort')
 root.geometry('500x150+550+300')
 root.iconbitmap('Ps.ico')
